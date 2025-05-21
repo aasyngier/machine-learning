@@ -9,3 +9,4 @@ Homework:
 7. [Homework 7](./ml_homework7.ipynb)
 8. [Homework 8](./ml_homework8.ipynb)
 9. [Homework 9](./ml_homework9.ipynb)
+10. [Homework 10](./ml_homework10.ipynb)
