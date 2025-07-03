@@ -11,4 +11,4 @@ Homework:
 9. [Homework 9](./ml_homework9.ipynb)
 10. [Homework 10](./ml_homework10.ipynb)
 11. [Homework 11](./ml_homework11.ipynb)
-12. [Last homework - it seems to not be opening on Github. Instead this link should work: https://colab.research.google.com/github/aasyngier/machine-learning/blob/main/ml_homework13and14.ipynb](./ml_homework13and14.ipynb)
+12. [Last homework](./ml_homework13and14.ipynb) - it seems to not be opening on Github. Instead this link should work: https://colab.research.google.com/github/aasyngier/machine-learning/blob/main/ml_homework13and14.ipynb
